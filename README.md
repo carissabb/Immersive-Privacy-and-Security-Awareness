@@ -44,4 +44,4 @@ JiHo Lee(jiholee@vt.edu), Carissa Bostian(carissab@vt.edu), Mughees Ur Rehman(mu
 </p>
 
 ## Documentation
-- [View the Full Report (PDF)](./assets/VRPrivacySecurityReport.pdf)
+- [View the Full Report (PDF)](./VRPrivacySecurityReport.pdf)
