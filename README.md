@@ -5,6 +5,12 @@ JiHo Lee(jiholee@vt.edu), Carissa Bostian(carissab@vt.edu), Mughees Ur Rehman(mu
 
 <h3>Mirror-Based Implementation</h3>
 <li>Eye-Tracking</li>
+
+<p align="center">
+  <img src="Images/EyeTrackingMirrorBased.gif" alt="EyeTrackingMirrorBased" width="600"/>
+</p>
+
+
 <li>Emotion Tracking</li>
 
 <img src="https://github.com/user-attachments/assets/98579962-acb1-48cd-bb19-552a81141c8d"/>
