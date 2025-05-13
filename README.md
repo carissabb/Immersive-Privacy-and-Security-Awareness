@@ -12,9 +12,10 @@ JiHo Lee(jiholee@vt.edu), Carissa Bostian(carissab@vt.edu), Mughees Ur Rehman(mu
 
 
 <li>Emotion Tracking</li>
-
+<p align="center">
 <img src="https://github.com/user-attachments/assets/98579962-acb1-48cd-bb19-552a81141c8d"/>
 <img src="https://github.com/user-attachments/assets/4c995368-805d-4c77-a808-d5eba629bd77"/>
+</p>
 
 <li>Hand Tracking</li>
 <p align="center">
@@ -32,11 +33,12 @@ JiHo Lee(jiholee@vt.edu), Carissa Bostian(carissab@vt.edu), Mughees Ur Rehman(mu
 
 
 <li>Emotion Tracking</li>
+<p align="center">
 <img src="https://github.com/user-attachments/assets/5c563d5f-61b7-48fe-9b81-de89b18e55dc"/>
-
+</p>
 
 <li>Hand Tracking</li>
 <p align="center">
-  <img src="Images/handTrackingGameBased.gif" alt="HandTrackingGameBased" width="600"/>
+  <img src="Images/handTrackingGameBased2.gif" alt="HandTrackingGameBased" width="600"/>
 </p>
 
