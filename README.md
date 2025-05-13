@@ -18,7 +18,7 @@ JiHo Lee(jiholee@vt.edu), Carissa Bostian(carissab@vt.edu), Mughees Ur Rehman(mu
 
 <li>Hand Tracking</li>
 <p align="center">
-  <img src="Images/462dcd4535194ccaba8bf9531eb89c1d.mov" alt="HandTrackingMirrorBased" width="600"/>
+  <img src="Images/handTrackingMirrorBased.gif" alt="HandTrackingMirrorBased" width="600"/>
 </p>
 
 
@@ -37,6 +37,6 @@ JiHo Lee(jiholee@vt.edu), Carissa Bostian(carissab@vt.edu), Mughees Ur Rehman(mu
 
 <li>Hand Tracking</li>
 <p align="center">
-  <img src="Images/8d09204ddd22479e9d04ec13d84d73a0.mov" alt="HandTrackingGameBased" width="600"/>
+  <img src="Images/handTrackingGameBased.gif" alt="HandTrackingGameBased" width="600"/>
 </p>
 
