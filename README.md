@@ -6,6 +6,9 @@ JiHo Lee(jiholee@vt.edu), Carissa Bostian(carissab@vt.edu), Mughees Ur Rehman(mu
 <h3>Mirror-Based Implementation</h3>
 <li>Eye-Tracking</li>
 <li>Emotion Tracking</li>
+![mirror-emotion-b](https://github.com/user-attachments/assets/a75b1e2c-54d8-40f7-9afe-ad5e4b299537)
+![mirror-emotion-a](https://github.com/user-attachments/assets/ca73dd1e-e1af-4d37-a7d8-c70138e0c131)
+
 <li>Hand Tracking</li>
 
 
@@ -15,5 +18,7 @@ JiHo Lee(jiholee@vt.edu), Carissa Bostian(carissab@vt.edu), Mughees Ur Rehman(mu
 <h3>Game-Based Implementation</h3>
 <li>Eye-Tracking</li>
 <li>Emotion Tracking</li>
+![game-emotion-a](https://github.com/user-attachments/assets/7f71f736-b4e6-4a4c-8e55-b51d166163d4)
+
 <li>Hand Tracking</li>
 
