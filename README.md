@@ -19,7 +19,7 @@ JiHo Lee(jiholee@vt.edu), Carissa Bostian(carissab@vt.edu), Mughees Ur Rehman(mu
 <h3>Game-Based Implementation</h3>
 <li>Eye-Tracking</li>
 <p align="center">
-  <img src="Images/EyeTrackingGameBased.gif" alt="EyeTrackingGameBased" width="300"/>
+  <img src="Images/EyeTrackingGameBased.gif" alt="EyeTrackingGameBased" width="600"/>
 </p>
 
 
