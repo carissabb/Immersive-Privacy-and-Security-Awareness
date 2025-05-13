@@ -7,12 +7,13 @@ JiHo Lee(jiholee@vt.edu), Carissa Bostian(carissab@vt.edu), Mughees Ur Rehman(mu
 <li>Eye-Tracking</li>
 <li>Emotion Tracking</li>
 <li>Hand Tracking</li>
-![IMG_5216](https://github.com/user-attachments/assets/0978b236-3e5c-4de7-a1d9-a52d3b9ae745)
+
+
+
 
 
 <h3>Game-Based Implementation</h3>
 <li>Eye-Tracking</li>
 <li>Emotion Tracking</li>
 <li>Hand Tracking</li>
-![IMG_5214](https://github.com/user-attachments/assets/defe1db8-a62b-4e36-a4bf-71c8630fe7b8) ![IMG_5215](https://github.com/user-attachments/assets/7e77ee47-bfb8-485e-b9b9-c891330e5acb)
 
